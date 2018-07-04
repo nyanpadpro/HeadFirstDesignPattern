@@ -3,5 +3,5 @@
 この際、Pythonのコードとして作法に則っているかは考慮しない  
 
 ## 完了
-[Strategyパターン](/SimUDuck_r2.py)
-[Observerパターン](/observer.py)
+[Strategyパターン](/SimUDuck_r2.py)  
+[Observerパターン](/observer.py)  

@@ -5,3 +5,4 @@
 ## 完了
 [Strategyパターン](/SimUDuck_r2.py)  
 [Observerパターン](/observer.py)  
+[Decoratorパターン](/decorator.py)  

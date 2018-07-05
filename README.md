@@ -6,3 +6,5 @@
 [Strategyパターン](/SimUDuck_r2.py)  
 [Observerパターン](/observer.py)  
 [Decoratorパターン](/decorator.py)  
+[Factory Methodパターン](factorymethod.py)  
+
